@@ -35,6 +35,8 @@ p{
     font-family: 'Playfair Display', serif;
 }
 label{
+    display: block;
+    width: 100px;
     background-color: blue;
 }
 input{
