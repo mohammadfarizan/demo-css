@@ -1,45 +1,53 @@
-body{
-    font-family: 'Caveat', serif;
-    background-color: #971549;
-    }
-nav{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 45px;
-    padding-left: 8%;
-    padding-right: 8%;
+body {
+  font-family: "Caveat", serif;
+  background-color: #971549;
 }
-nav ul li{
-    list-style-type: none;
-    display: inline-block;
-    padding: 10px 25px;
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-top: 45px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
-nav ul li a{
-    color: white;
-    text-decoration: none;
-    font-weight: bold;
-    
+
+nav ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding: 10px 25px;
 }
-h1{
-    color: white;
-    font-size: 1em;
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
 }
-p{
-    color:white;
+
+h1 {
+  color: white;
+  font-size: 1em;
 }
+
+p {
+  color: white;
+}
+
+label {
+  display: block;
+  width: 100px;
+  background-color: blue;
+}
+
+input {
+  width: 470px;
+  height: 50px;
+}
+
 .name {
-    font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
 }
+
 .menu {
-    font-family: 'Playfair Display', serif;
-}
-label{
-    display: block;
-    width: 100px;
-    background-color: blue;
-}
-input{
-    width: 470px;
-    height: 50px;
+  font-family: "Playfair Display", serif;
 }
