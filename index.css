@@ -1,0 +1,17 @@
+body{
+    font-family: 'Caveat', serif;
+    background-color: #971549;
+    }
+h1{
+    color: white;
+    font-size: 3em;
+}
+p{
+    color:white;
+}
+.name {
+    font-family: 'Playfair Display', serif;
+}
+.menu {
+    font-family: 'Playfair Display', serif;
+}
