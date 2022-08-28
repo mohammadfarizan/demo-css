@@ -2,9 +2,28 @@ body{
     font-family: 'Caveat', serif;
     background-color: #971549;
     }
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+nav ul li a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+}
 h1{
     color: white;
-    font-size: 3em;
+    font-size: 1em;
 }
 p{
     color:white;
