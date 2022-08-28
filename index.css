@@ -34,3 +34,10 @@ p{
 .menu {
     font-family: 'Playfair Display', serif;
 }
+label{
+    background-color: blue;
+}
+input{
+    width: 470px;
+    height: 50px;
+}
